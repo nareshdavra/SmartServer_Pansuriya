@@ -1,0 +1,7 @@
+2015-08-11 12:29:46 [WARNING] Configuration file was not present. Now created.
+2015-08-11 12:29:46 [WARNING] Using embedded MySQL database.
+2015-08-11 12:29:49 [SEVERE] Unable to connect to the database, or initialize ORM.
+Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2015-08-11 12:29:49 [SEVERE] Database could not be initialized. SmartServer will not start.

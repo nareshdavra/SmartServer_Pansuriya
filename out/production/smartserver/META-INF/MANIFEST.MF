@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Class-Path: lib\javax.mail.jar lib\mysql-connector-java.jar lib\ormlit
+ e-core.jar lib\ormlite-jdbc.jar lib\postgresql-connector-java.jar lib
+ \spacecode_sdk.jar lib\sqlserver-connector-java.jar
+Main-Class: com.spacecode.smartserver.SmartServer
+

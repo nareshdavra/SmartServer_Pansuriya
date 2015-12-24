@@ -1,0 +1,22 @@
+2015-08-10 17:13:35 [WARNING] Configuration file was not present. Now created.
+2015-08-10 17:13:37 [WARNING] Using embedded MySQL database.
+2015-08-10 17:13:40 [SEVERE] Unable to connect to the database, or initialize ORM.
+Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2015-08-10 17:13:40 [SEVERE] Database could not be initialized. SmartServer will not start.
+2015-08-11 12:17:19 [WARNING] Using embedded MySQL database.
+2015-08-11 12:17:21 [SEVERE] Unable to connect to the database, or initialize ORM.
+Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2015-08-11 12:17:21 [SEVERE] Database could not be initialized. SmartServer will not start.
+2015-10-12 14:40:59 [WARNING] Using embedded MySQL database.
+2015-10-12 14:41:03 [SEVERE] Unable to connect to the database, or initialize ORM.
+Communications link failure
+
+The last packet sent successfully to the server was 0 milliseconds ago. The driver has not received any packets from the server.
+2015-10-12 14:41:03 [SEVERE] Database could not be initialized. SmartServer will not start.
+2015-11-05 15:51:38 [SEVERE] Unable to connect to the database, or initialize ORM.
+Driver class was not found for MySQL database.  Missing jar with class com.mysql.jdbc.Driver.
+2015-11-05 15:51:38 [SEVERE] Database could not be initialized. SmartServer will not start.

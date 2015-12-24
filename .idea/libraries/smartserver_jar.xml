@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="smartserver_jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/smartserver_jar/spacecode_sdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/smartserver_jar/smartserver.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

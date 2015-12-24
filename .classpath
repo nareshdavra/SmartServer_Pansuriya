@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/smartserver_jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib1"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/lib"/>
+	<classpathentry kind="lib" path="D:/AndroidWorkspace/SmartServer_Pansuriya/lib/spacecode_sdk.jar"/>
+	<classpathentry kind="lib" path="D:/AndroidWorkspace/SmartServer_Pansuriya/lib/ormlite-jdbc.jar"/>
+	<classpathentry kind="lib" path="D:/AndroidWorkspace/SmartServer_Pansuriya/lib/ormlite-core.jar"/>
+	<classpathentry kind="lib" path="D:/AndroidWorkspace/SmartServer_Pansuriya/lib/javax.mail.jar"/>
+	<classpathentry kind="output" path="out/production/smartserver"/>
+</classpath>

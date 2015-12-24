@@ -1,0 +1,15 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/out/artifacts/smartserver_jar/lib/postgresql-connector-java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/smartserver_jar/lib/mysql-connector-java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/smartserver_jar/lib/ormlite-jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/smartserver_jar/lib/ormlite-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/smartserver_jar/lib/sqlserver-connector-java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/smartserver_jar/lib/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/out/artifacts/smartserver_jar/lib/spacecode_sdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/postgresql-connector-java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/spacecode_sdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/netty-all-4.0.30.Final.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ormlite-jdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/javax.mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/sqlserver-connector-java.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ormlite-core.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mysql-connector-java.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
